@@ -16,7 +16,7 @@
         <div class="row">
             <div class="col-12">
                 <article class="text-justify blog-article">
-                    <h2 class="title text-left">TÍTULO DEL BLOG</h2>
+                    <h2 class="title text-left">Noticias del sector asegurador</h2>
                     <span class="date">25 de abril de 2019</span>
                     <div class="space-3"></div>
                     <p>Solo el 17% de las firmas que operan en Europa puede calificarse de “digitalmente madura“, según recoge un informe elaborado por la consultora EY, que destaca que los sectores más expuestos a la competencia y la innovación, como el de la tecnología y el de servicios financieros, aseguradoras entre ellos, se sitúan a la vanguardia en estrategias de digitalización.</p>

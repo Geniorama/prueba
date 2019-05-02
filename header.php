@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="src/css/owl.carousel.min.css">
     <link rel="stylesheet" href="src/css/bootstrap.min.css">
     <link rel="stylesheet" href="src/css/style.css">
+    <link rel="shortcut icon" href="src/img/dego-logo.png" type="image/x-icon">
     <title>DEGO Consultores</title>
 </head>
 <body id="home">
