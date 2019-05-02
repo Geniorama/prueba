@@ -120,11 +120,13 @@
         // aca se pregunta si el scroll se movio de pa bajo.
            if ($(this).scrollTop() > 150) {
               $('.header-default').addClass('header-sticky');
-              $('.back-to-top').slideDown();
+              $('.btn-whatsapp').fadeIn();
+              $('.back-to-top').fadeIn();
            }
            if ($(this).scrollTop() < 150) {
             $('.header-default').removeClass('header-sticky');
-            $('.back-to-top').slideUp();
+            $('.btn-whatsapp').fadeOut();
+            $('.back-to-top').fadeOut();
            }
    });
 

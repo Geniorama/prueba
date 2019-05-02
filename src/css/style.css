@@ -223,14 +223,14 @@ a {
 
 .back-to-top {
   position: fixed;
-  bottom: 10px;
-  right: 10px;
+  bottom: 7rem;
+  right: 1.5rem;
   display: none;
   z-index: 10000;
 }
 .back-to-top a {
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
   font-size: 2rem;
   display: flex;
   flex-direction: column;
@@ -238,9 +238,30 @@ a {
   align-items: center;
   background-color: #C44B74;
   color: #fff;
-  border-radius: 10px;
+  border-radius: 50%;
 }
 .back-to-top a:hover {
+  text-decoration: none;
+}
+
+.btn-whatsapp {
+  position: fixed;
+  bottom: 11rem;
+  right: 1.5rem;
+}
+.btn-whatsapp a {
+  width: 50px;
+  height: 50px;
+  font-size: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1EBEA5;
+  color: #fff;
+  border-radius: 50%;
+}
+.btn-whatsapp a:hover {
   text-decoration: none;
 }
 

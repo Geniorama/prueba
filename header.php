@@ -40,6 +40,10 @@
             </div>
         </div>
     </header>
+    <!-- WHATSAPP -->
+    <div class="btn-whatsapp">
+        <a href="https://wa.me/573202735425?text=Me%20gustaría%20saber%20sobre%20Dego%20Club" target="_blank"><i class="fab fa-whatsapp"></i></a>
+    </div>
     <div class="back-to-top">
         <a href="#home"><i class="fas fa-angle-up"></i></a>
     </div>
