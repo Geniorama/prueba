@@ -248,6 +248,7 @@ a {
   position: fixed;
   bottom: 11rem;
   right: 1.5rem;
+  z-index: 10000;
 }
 .btn-whatsapp a {
   width: 50px;
@@ -614,7 +615,12 @@ a {
     height: 100px;
   }
 
+  .footer {
+    padding-bottom: 5rem;
+  }
   .footer .register-nav {
+    display: flex;
+    flex-direction: column;
     margin-top: 1rem !important;
   }
   .footer .register-nav .link {
@@ -636,6 +642,17 @@ a {
   }
   .one-section .msj-error {
     font-size: 1rem;
+  }
+
+  /*Float buttons*/
+  .btn-whatsapp {
+    left: 1rem;
+    bottom: 1.5rem;
+  }
+
+  .back-to-top {
+    bottom: 1.5rem;
+    right: 45%;
   }
 }
 
