@@ -13,10 +13,10 @@
                 <div class="col-12 col-md-3 contacto item">
                     <h4>Contáctanos</h4>
                     <ul class="nav flex-column">
-                        <li class="nav-item"><a href="#" class="nav-link"><i class="fas fa-headset"></i> (57+1) 2151578</a></li>
-                        <li class="nav-item"><a href="#" class="nav-link"><i class="fab fa-whatsapp"></i> (+57) 3202735425</a></li>
-                        <li class="nav-item"><a href="#" class="nav-link"><i class="fas fa-map-marked-alt"></i> Calle 55 No. 80-22 Of. 407</a></li>
-                        <li class="nav-item"><a href="#" class="nav-link"><i class="far fa-envelope"></i> info@degoclub.com</a></li>
+                        <li class="nav-item"><a href="tel:0312151578" class="nav-link"><i class="fas fa-headset" target="_blank"></i> (57+1) 2151578</a></li>
+                        <li class="nav-item"><a href="tel:+573202735425" class="nav-link"><i class="fab fa-whatsapp" target="_blank"></i> (+57) 3202735425</a></li>
+                        <li class="nav-item"><a href="https://goo.gl/maps/2ssEvWNHuY32qcUa8" class="nav-link" target="_blank"><i class="fas fa-map-marked-alt"></i> Calle 55 No. 80-22 Of. 407</a></li>
+                        <li class="nav-item"><a href="mailto:info@degoclub.com" class="nav-link"><i class="far fa-envelope"></i> info@degoclub.com</a></li>
                     </ul>
                 </div>
                 <div class="col-12 col-md-3 item">
